@@ -6,7 +6,7 @@
 * I’m currently learning More of The Above Languages 🌱
 * How to reach me: You can Reach me on my website. 📫
 * I’m currently working on some Beginner Projects 🔭
-* Likes: I like people who use people's code/files and then attribute to them that this code has been adapted from their  Repository 👍❤️
+* Likes: I like people who use people's code/files and then attribute to them that this code has been adapted from their Repository.👍❤️
 * Dislikes: I hate people who they reuse other people's code, change the names and tell the world that they have made the app. 👎💔
 ### My Repositories 📁
 1. TechyCalc - https://github.com/mrtechtroid/techycalc - It is a super efficient Calculator - Python
