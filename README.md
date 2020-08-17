@@ -1,12 +1,12 @@
 ### Hi there 👋
 ### About Me - @mrtechtroid 📙
 * I am MrTechtroid from Bangalore,India 🇮🇳
+* Joined on May 5th 2020 🎂
 * I like Programming And Coding 👍❤️
 * I am Fluent with Python, HTML-CSS, and Visual Basic 🎓
 * I’m currently learning More of The Above Languages 🌱
 * How to reach me: You can Reach me on my website. 📫
 * I’m currently working on some Beginner Projects 🔭
-* Joined on May 5th 2020 🎂
 * Likes: People who use people's code/files and then attribute to them that this code has been adapted from their Repository.👍❤️
 * Dislikes: People who they reuse other people's code, change the names and tell the world that they have made the app. 👎💔
 ### My Repositories 📁
