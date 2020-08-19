@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### About Me - @mrtechtroid 📙
 * I am MrTechtroid from Bangalore,India 🇮🇳
-* Joined on May 5th 2020 🎂
+* Joined to Github on May 5th 2020 🎂
 * I like Programming And Coding 👍❤️
 * I am Fluent with Python, HTML-CSS, and Visual Basic 🎓
 * I’m currently learning More of The Above Languages 🌱
