@@ -8,8 +8,6 @@
 ## Top Repositories 📁
 1. [Python](https://github.com/mrtechtroid/python) - Some Basic Python Programs Which Might Be Useful for Many Developers. 
 2. [TechyCalc](https://github.com/mrtechtroid/techycalc) - It is a super efficient Calculator - Python
-3. [Public](https://github.com/mrtechtroid/public) - List of some good script, files which may be required by beginners. 
-4. [Visual Basic](https://github.com/mrtechtroid/visualbasic) - Some Projects For People who want to learn Visual Basic and also Its Source Code
 
 ## Languages I Am Fluent With: 🎓
 1. Python - Beginner 
