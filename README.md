@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About Me - @mrtechtroid 📙
-* <b>Who Am I?</b> I am Mr Techtroid from Bangalore,India 🇮🇳
+* <b>Who Am I?</b> I am Mr Techtroid
 * <b>When Did I Join to Github? </b>May 5th 2020 🎂
 * <b>What Do I Like?</b> Programming And Coding 👍❤️
 * <b>What Am I Working On Currently? </b> Some Beginner Projects 🔭
