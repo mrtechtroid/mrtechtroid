@@ -11,7 +11,7 @@
 3. [GFormJS](https://github.com/mrtechtroid/GFormJS) - Allows People To Make Custom Form Layouts For Google Forms - Javascript
 4. [CaptchaJS](https://github.com/mrtechtroid/CaptchaJS) - Allows People To Add Local Captchas To Their Site - Javascript
 5. [MTTNotes](https://github.com/mrtechtroid/mttnotes) - A Web App Allowing People To Store Private Encrypted Notes - Javascript
-6. [hatbox](https://github.com/mrtechtroid/ChatBox) - A Mod For MineTest Adding Various Chat Functionalities - Lua
+6. [Chatbox](https://github.com/mrtechtroid/ChatBox) - A Mod For MineTest Adding Various Chat Functionalities - Lua
 
 ## Languages I Am Fluent With: 🎓
 1. Python - Intermediate
