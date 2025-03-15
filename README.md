@@ -7,11 +7,6 @@
 * <b>What Do I Like?</b> Programming And Coding 👍❤️
 * <b>What Am I Working On Currently? </b> Projects for Hackathons! 🔭
 
-<p align="left">
-<img src = "https://github-readme-stats.vercel.app/api?username=mrtechtroid&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=mrtechtroid&theme=dark&hide_border=false">
-</p>
-
 ## Projects 📁
 ### Lingo
 - MongoDB, Express, React, Google Gemini, NextJS
